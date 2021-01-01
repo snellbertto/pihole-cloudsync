@@ -33,9 +33,9 @@ update='December 26, 2020'
 ###########################################################################
 # CONSTANTS
 personal_git_dir='/usr/local/bin/my-pihole-lists'
-pihole_dir='/etc/pihole'
-gravity_db='/etc/pihole/gravity.db'
-dnsmasq_dir='/etc/dnsmasq.d/'
+pihole_dir='/mnt/user/appdata/pihole/pihole'
+gravity_db='/mnt/user/appdata/pihole/pihole/gravity.db'
+dnsmasq_dir='/mnt/user/appdata/pihole/dnsmasq.d/'
 ad_list='adlist.csv'
 custom_list='custom.list'
 domain_list='domainlist.csv'
